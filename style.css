@@ -1,0 +1,47 @@
+h1{
+	text-align:center;
+  text-shadow:2px 2px 4px black;
+  text-decoration: underline;
+	font-size:400%;
+	color:#ff0000;
+}
+h2 {
+	font-size:300%;
+	color:#555555;
+}
+#CA {
+	font-size:200%;
+	color:#ff8c1a;
+}
+#NA {
+	font-size:200%;
+	color:#4d2600;
+}
+#MF {
+	font-size:200%;
+	color:#330080;
+}
+#GG {
+	font-size:200%;
+	color:#004d00;
+}
+#TG {
+	font-size:200%;
+	color:#00e600;
+}
+#TBG  {
+	font-size:200%;
+	color:#b30059;
+}
+#BPU  {
+	font-size:200%;
+	color:#e6e600;
+}
+#AJ {
+	font-size:200%;
+	color:#990000;
+}
+#fruits {
+    float: right;
+    margin:5px, auto;
+}
