@@ -7,7 +7,12 @@ h1{
 }
 h2 {
 	font-size:300%;
-	color:#555555;
+	color:#3377ff;
+	text-shadow: 1px 1px 2px #3377ff;
+	text-decoration: underline;
+}
+ul {
+	display: inline-block;
 }
 #CA {
 	font-size:200%;
@@ -44,4 +49,80 @@ h2 {
 #fruits {
     float: right;
     margin:5px, auto;
+}
+#Vanilla_Whey {
+		font-size: 200%;
+		color: #ff884d;
+		text-decoration: none;
+}
+#Chocolate_Whey {
+		font-size: 200%;
+		color: #4d1a00;
+		text-decoration: none;
+}
+#Soy_Protein {
+	font-size: 200%;
+	color: #ff4000;
+	text-decoration: none;
+}
+#Pea_Protein {
+		font-size: 200%;
+		color: #666633;
+		text-decoration: none;
+}
+#No_Protein {
+	font-size: 200%;
+	color: inherit;
+	text-decoration: none;
+}
+#Club_Favorite {
+		font-size: 200%;
+		color: #ff0000;
+		text-decoration: none;
+	}
+#Hulk {
+		font-size: 300%;
+		color: #00aa00;
+		text-shadow: 1px 1px 2px #001100;
+		text-decoration: underline;
+}
+#coco {
+		font-size: 200%;
+		color: #00bfff;
+}
+#espinaca {
+	font-size: 200%;
+	color: #00b300;
+}
+#zanahoria {
+	font-size: 200%;
+	color: #ff6600;
+}
+#sacate {
+	font-size: 200%;
+	color: #008000;
+}
+#aguacate {
+	font-size: 200%;
+	color: #004d00;
+}
+#jengibre {
+	font-size: 200%;
+	color: #ffd633;
+}
+#limón {
+	font-size: 200%;
+	color: #00ff00;
+}
+#agave {
+	font-size: 200%;
+	color: #0066cc;
+}
+#cúrcuma {
+	font-size: 200%;
+	color: #ff9900;
+}
+#chícharo {
+	font-size: 200%;
+	color: #666633;
 }
