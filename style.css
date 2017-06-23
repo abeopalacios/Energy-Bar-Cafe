@@ -1,6 +1,6 @@
 h1{
 	text-align:center;
-  text-shadow:2px 2px 4px black;
+  text-shadow:2px 2px 4px #ff3030;
   text-decoration: underline;
 	font-size:400%;
 	color:#ff0000;
@@ -11,8 +11,34 @@ h2 {
 	text-shadow: 1px 1px 2px #3377ff;
 	text-decoration: underline;
 }
-ul {
+#barra {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+#home {
+    float: right;
+}
+#home a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+#home a:hover {
+    background-color: #111111;
+}
+#lista {
 	display: inline-block;
+}
+#horizontal ul {
+	list-style: none;
+}
+#horizontal li {
+	display: inline;
 }
 #CA {
 	font-size:200%;
@@ -79,16 +105,38 @@ ul {
 		font-size: 200%;
 		color: #ff0000;
 		text-decoration: none;
-	}
-#Hulk {
-		font-size: 300%;
-		color: #00aa00;
-		text-shadow: 1px 1px 2px #001100;
-		text-decoration: underline;
+}
+#vainilla {
+	font-size: 200%;
+	color: #1a0900;
+}
+#chocolate {
+	font-size: 200%;
+	color: #4d1a00
+}
+#chícharo {
+	font-size: 200%;
+	color: #666633;
+}
+#lda {
+	font-size: 200%;
+	color: #ff6600;
 }
 #coco {
 		font-size: 200%;
 		color: #00bfff;
+}
+#café {
+	font-size: 200%;
+	color: #331100;
+}
+#yg {
+	font-size: 200%;
+	color: #595959;
+}
+#yn {
+	font-size: 200%;
+	color: #595959;
 }
 #espinaca {
 	font-size: 200%;
@@ -96,7 +144,7 @@ ul {
 }
 #zanahoria {
 	font-size: 200%;
-	color: #ff6600;
+	color: #ff3300;
 }
 #sacate {
 	font-size: 200%;
@@ -118,11 +166,75 @@ ul {
 	font-size: 200%;
 	color: #0066cc;
 }
+#nuez {
+	font-size: 200%;
+	color: #cc4400;
+}
 #cúrcuma {
 	font-size: 200%;
 	color: #ff9900;
 }
-#chícharo {
+#mango {
 	font-size: 200%;
-	color: #666633;
+	color: #e68a00;
+}
+#piña {
+	font-size: 200%;
+	color: #b3b300;
+}
+#plátano {
+	font-size: 200%;
+	color: #cccc00;
+}
+#acaí {
+	font-size: 200%;
+	color: #660000;
+}
+#chia {
+	font-size: 200%;
+	color: #000000;
+}
+#cacahuate {
+	font-size: 200%;
+	color: #993300;
+}
+#avena {
+	font-size: 200%;
+	color: #6b6b47;
+}
+#lino {
+	font-size: 200%;
+	color: #000000;
+}
+#canela {
+	font-size: 200%;
+	color: #b32400;
+}
+#miel {
+	font-size: 200%;
+	color: #e68a00;
+}
+#hulk {
+		font-size: 300%;
+		color: #00aa00;
+		text-shadow: 1px 1px 2px #001100;
+		text-decoration: underline;
+}
+#solstice {
+	font-size: 300%;
+	color: #ff0066;
+	text-shadow: 1px 1px 2px #1a000a;
+	text-decoration: underline;
+}
+#coffee {
+	font-size: 300%;
+	color: #331100;
+	text-shadow: 1px 1px 2px #e64d00;
+	text-decoration: underline;
+}
+#carrot_cake {
+	font-size: 300%;
+	color: #ff884d;
+	text-shadow: 1px 1px 2px #ff4d4d;
+	text-decoration: underline;
 }
